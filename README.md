@@ -1,9 +1,9 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+KT+%F0%9F%91%8B;Frontend+Software+Engineer;I+build+interfaces+that+perform.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+KT+%F0%9F%91%8B;Software+Engineer;I+build+interfaces+that+perform.)
 
 <p>
-  <strong>5+ years · Lagos, Nigeria · Open to Remote / Relocation</strong><br/>
+  <strong>Software Engineer · 5+ years · Lagos, Nigeria · Open to Remote / Relocation</strong><br/>
   Fintech · E-commerce · SaaS
 </p>
 
