@@ -3,8 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+KT+%F0%9F%91%8B;Software+Engineer;I+build+interfaces+that+perform.)
 
 <p>
-  <strong>Software Engineer · 5+ years · Lagos, Nigeria · Open to Remote / Relocation</strong><br/>
-  Fintech · E-commerce · SaaS
+  <strong>Software Engineer · 5+ years · Lagos, Nigeria · Open to Remote / Relocation</strong>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ktfolio--v1.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ktfolio-v1.vercel.app/)
@@ -17,9 +16,9 @@
 
 ### Who I am
 
-Frontend Software Engineer with 5+ years shipping production-grade web apps across fintech, e-commerce, and SaaS. Currently building at **Flutterwave** and **KadavraBDC** — crafting admin systems, dashboards, and customer-facing products that scale.
+I build web products that ship fast, scale clean, and feel effortless to use. Five years of turning complex requirements into interfaces that actually work — admin systems, dashboards, payment flows, consumer apps.
 
-I care about performance, accessibility, clean architecture, and UI that feels effortless to use. My goal: evolve into an engineering lead who shapes product direction and inspires teams to build boldly.
+Performance, accessibility, and clean architecture aren't afterthoughts for me — they're the baseline. Long-term: engineering leadership that shapes product direction, not just sprint tickets.
 
 ---
 
