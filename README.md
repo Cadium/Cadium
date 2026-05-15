@@ -16,9 +16,9 @@
 
 ### Who I am
 
-I build web products that ship fast, scale clean, and feel effortless to use. Five years of turning complex requirements into interfaces that actually work — admin systems, dashboards, payment flows, consumer apps.
+I build web products that ship fast, scale clean, and feel effortless to use. Over five years of turning complex requirements into interfaces that actually work. Admin systems, dashboards, payment flows, consumer apps.
 
-Performance, accessibility, and clean architecture aren't afterthoughts for me — they're the baseline. Long-term: engineering leadership that shapes product direction, not just sprint tickets.
+Performance, accessibility, and clean architecture aren't afterthoughts for me. They're the baseline. Long-term: engineering leadership that shapes product direction, not just sprint tickets.
 
 ---
 
