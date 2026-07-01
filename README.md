@@ -1,8 +1,10 @@
 <div align="center">
 
-# KT Oguntowo
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+KT+%F0%9F%91%8B;Software+Engineer;I+build+software+that+ships.)
 
-**Software Engineer · 5+ years · Lagos, Nigeria · Open to Remote / Relocation**
+<p>
+  <strong>Software Engineer · 5+ years · Lagos, Nigeria · Open to Remote / Relocation</strong>
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ktfolio--v1.vercel.app-141414?style=for-the-badge&logo=vercel&logoColor=white)](https://ktfolio-v1.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oguntowokitan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguntowokitan)
@@ -14,18 +16,18 @@
 
 ### Who I am
 
-I build software end to end — frontend, backend, and the systems that connect them. Five years shipping production work across fintech, e-commerce, and SaaS: admin platforms, payment flows, loan dashboards, and the AI-driven tooling that automates what used to take a team.
+I build software end to end, covering the frontend, the backend, and the systems that tie them together. Over the past five years I've shipped production work across fintech, e-commerce, and SaaS, including admin platforms, payment flows, loan dashboards, and the AI driven tooling that now automates work that used to take a full team.
 
-Architecture and reliability aren't a separate phase — they're how the thing gets built in the first place. I own a build from first conversation to handoff, not just the parts that are visible in a demo.
+Architecture and reliability aren't a separate phase of the process, they're how the thing gets built in the first place. I own a build from the first conversation through handoff, including the parts that never show up in a demo.
 
 ---
 
 ### What I build
 
-- **Full-stack products** — React/Next.js, Vue/Nuxt, and the APIs and databases behind them
-- **AI-powered tools & automation** — pipelines and assistants that remove manual work, not just chat wrappers
-- **Fintech & admin systems** — real-money flows, compliance constraints, audit-ready dashboards
-- **E-commerce & marketing builds** — Shopify storefronts, Webflow sites, conversion-focused launches
+- **Full-stack products**: React/Next.js, Vue/Nuxt, and the APIs and databases behind them
+- **AI-powered tools & automation**: pipelines and assistants that remove manual work, not just chat wrappers
+- **Fintech & admin systems**: real-money flows, compliance constraints, audit-ready dashboards
+- **E-commerce & marketing builds**: Shopify storefronts, Webflow sites, conversion-focused launches
 
 ---
 
@@ -47,10 +49,10 @@ Architecture and reliability aren't a separate phase — they're how the thing g
 | Project | What it does | Stack |
 |---|---|---|
 | [Flutterwave Capital](https://flutterwave.com/capital) | Loan dashboard enabling $5M+ in business funding | Nuxt.js · TypeScript · Contentful |
-| [KadavraBDC](https://app.kadavrabdc.com) | Digitized Bureau de Change — real-time FX rates, secure transfers, compliance-ready trading dashboard | React · TypeScript |
-| [Odysy](https://getodysy.com) | Travel-first fintech for Africans — virtual & physical cards, multi-currency, mobile money | React · TypeScript |
+| [KadavraBDC](https://app.kadavrabdc.com) | Digitized Bureau de Change with real-time FX rates, secure transfers, and a compliance-ready trading dashboard | React · TypeScript |
+| [Odysy](https://getodysy.com) | Travel-first fintech for Africans, with virtual and physical cards, multi-currency support, and mobile money | React · TypeScript |
 | [Send App EOY 2024](https://send.flutterwave.com/eoy-2024) | High-visibility end-of-year campaign site | Next.js |
-| [Shop Mona](https://shopmona.com.ng) | E-commerce platform — drove a 60% sales increase | React |
+| [Shop Mona](https://shopmona.com.ng) | E-commerce platform that drove a 60% sales increase | React |
 
 ---
 
