@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+KT+%F0%9F%91%8B;Software+Engineer;I+build+software+that+ships.)
 
 <p>
-  <strong>Software Engineer · 5+ years · Lagos, Nigeria · Open to Remote / Relocation</strong>
+  <strong>Software Engineer · 6+ years · Lagos, Nigeria · Open to Remote / Relocation</strong>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ktfolio--v1.vercel.app-141414?style=for-the-badge&logo=vercel&logoColor=white)](https://ktfolio-v1.vercel.app/)
@@ -16,9 +16,9 @@
 
 ### Who I am
 
-I build software end to end, covering the frontend, the backend, and the systems that tie them together. Over the past five years I've shipped production work across fintech, e-commerce, and SaaS, including admin platforms, payment flows, loan dashboards, and the AI driven tooling that now automates work that used to take a full team.
+I build software end to end, covering the frontend, the backend, and the systems that tie them together. Over the past six years, I've shipped production work across fintech, e-commerce, and SaaS, including admin platforms, payment flows, loan dashboards, and the AI-driven tooling that now automates work that used to take a full team.
 
-Architecture and reliability aren't a separate phase of the process, they're how the thing gets built in the first place. I own a build from the first conversation through handoff, including the parts that never show up in a demo.
+Architecture and reliability aren't a separate phase of the process; they're how the thing gets built in the first place. I own a build from the first conversation through handoff, including the parts that never show up in a demo.
 
 ---
 
